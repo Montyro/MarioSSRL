@@ -1,0 +1,3 @@
+[submodule "Semantic-Segmentation-Boost-Reinforcement-Learning"]
+	path = Semantic-Segmentation-Boost-Reinforcement-Learning
+	url = https://github.com/vpulab/Semantic-Segmentation-Boost-Reinforcement-Learning
